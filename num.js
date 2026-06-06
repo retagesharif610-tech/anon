@@ -29,7 +29,7 @@ export default async function handler(req, res) {
           We do not forget.<br>
           Expect us.</p>
 
-          <img src="/logo.png" alt="Logo" width="250"/>
+          <img src="Anonymous_emblem.svg.png" alt="Logo" width="250"/>
         </body>
       </html>
     `);
